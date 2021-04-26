@@ -1,1 +1,1 @@
-console.log("Inside Container");
+import("./bootstrap");
